@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/NZnGx0o.png)
+![Logo](https://i.imgur.com/fvVeKqs.png)
 
 ## Get Involved
 Right now, we are in an intense development process for our newest server, RPG, we are testing some private projects but we are a big expectation on new open-source projects.
